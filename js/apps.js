@@ -132,7 +132,7 @@ function initMap() {
     GeoMarker.setMap(map);
 }
 // load map
-google.maps.event.addDomListener(window, 'load', initMap);
+//google.maps.event.addDomListener(window, 'load', initMap);
 // jika lokasi tidak ditemukan atau browser tidak support geoLocation
 if (!navigator.geolocation) {
     alert('Your browser does not support geolocation');
