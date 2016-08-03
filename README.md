@@ -1,1 +1,12 @@
-#Tambal Ban Online (TABline)Ide aplikasinya sih dari [Adam Maulana](https://web.facebook.com/adam.maulana.3304), dan [1Cak](http://1cak.com).Projek ngawur ini mungkin saja ada yang mau membantu jadi projek tidak ngawur :DIni pakai :* [leaflet.js](leafletjs.com) beserta plugin-nya* Maps pakai [OSM](http://openstreetmap.org/)## FAQQ : Kenapa tidak pakai API Google Maps?A : Karena  sudah terlanjur pakai komponen di atas. Lagian ini juga projek iseng, tidak ada database, dan tidak dinamis. Mungkin nanti akan ada projek semacam ini yang sangat terstruktur dan dinamis, nantikan saja :)Q : Kenapa tampilannya jelek ?A : Karena tidak ada yang menyumbang tenaga jadi Front End, kamu mau kontribusi? silahkan kami akan sangat berterima kasih.Q : Kenapa cuma tambal ban daerah Jepara saja ?A : jawabannya seperti pertanyaan pertama, dan ini juga tidak lengkap data tambal bannya.Q : Apakah saya bisa menambahkan data tambal ban ?A : Bisa, namun karena aplikasi ini dibuat tidak dinamis, jadi silahkan email saja ke muhamadmashudiardiwinata[at]gmail.com koordinat latitude dan longtitude nya :DQ : Ga jadi ah tambah data lokasi tambal ban, susah. Harus cari latitude dan longtitude.A : Ya sudah mengunjungi website ini dan membaca README di repositori ini juga sudah cukup.Q : Fiturnya cuma ini doang ?A : Ya, namanya juga projek iseng. hahaha :D
+#Tambal Ban Online (TABline)
+
+Ide aplikasinya sih dari [Adam Maulana](https://web.facebook.com/adam.maulana.3304), dan [1Cak](http://1cak.com).
+
+Projek ngawur ini mungkin saja ada yang mau membantu jadi projek tidak ngawur :D
+
+
+
+
+
+
+
