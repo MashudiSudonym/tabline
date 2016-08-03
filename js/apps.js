@@ -1,5 +1,5 @@
 // inisialisasi peta
-function initMap() {
+function inisialMap() {
     var myLatLng = new google.maps.LatLng(-6.6411, 110.7132); // atur LatLng ke Kabupaten Jepara
     // map properti
     var mapProp = {
@@ -132,7 +132,7 @@ function initMap() {
     GeoMarker.setMap(map);
 }
 // load map
-google.maps.event.addDomListener(window, 'load', initMap);
+google.maps.event.addDomListener(window, 'load', inisialMap);
 // jika lokasi tidak ditemukan atau browser tidak support geoLocation
 if (!navigator.geolocation) {
     alert('Your browser does not support geolocation');
